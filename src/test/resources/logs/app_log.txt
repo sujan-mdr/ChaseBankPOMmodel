@@ -1,0 +1,5 @@
+INFO    2021-01-08 17:42:10,427 [main] base.BaseTest  - Test Execution has been started!!
+INFO    2021-01-08 17:42:10,427 [main] base.BaseTest  - Config files has been loaded!!!
+INFO    2021-01-08 17:42:13,961 [main] base.BaseTest  - Chrome has launched!!
+INFO    2021-01-08 17:42:22,246 [main] base.BaseTest  - Navigated to Chase Bank!!!
+INFO    2021-01-08 17:42:31,976 [main] base.BaseTest  - Test Execution Completed!!
